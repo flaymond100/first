@@ -1,0 +1,187 @@
+/**********************************TAG SELECTORS*********************************/
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+  margin: 100px auto 0 auto;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.6rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+hr {
+  color: #EAF6F6;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
+p {
+
+}
+
+span {
+  text-decoration: underline;
+}
+
+
+/********************************CLASS SELECTORS*********************************/
+
+
+.bottom-paragraph {
+  margin: 64px auto 64px auto;
+}
+
+.bottom-footer {
+color: #11999E;
+display: inline-block;
+text-align: center;
+margin-top: 20px;
+}
+
+.foot {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.footer-link {
+  padding: 0 30px 0 30px;
+}
+
+.football-field {
+  margin-top:100px;
+  max-height: 250px;
+}
+
+.top-container {
+  background-color: #EAF6F6
+;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin-top: 20px;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  border-top: 200px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 370px;
+}
+
+.bottom-par {
+  color: #EAF6F6;
+  padding-top: 32px;
+}
+
+.profile-picture {
+  max-height: 400px;
+}
+
+
+
+.contact-me {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 200px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-top {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.tactic-skill {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.psychology-skill {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.new-ideas {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #66BFBF;
+	background-color:#66BFBF;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	padding:13px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #66BFBF;
+}
+.myButton:hover {
+	background-color:#66bfbf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+/***********************************ID SELECTORS*********************************/
